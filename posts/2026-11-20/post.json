@@ -39,7 +39,7 @@
       "type": "tip",
       "kicker": "The trade-off",
       "title": "Mortgage loan insurance",
-      "body": "With less than 20% down, you'll typically need mortgage loan insurance. The premium is usually added to your mortgage, so it costs more over time."
+      "body": "With less than 20% down, you'll typically need mortgage loan insurance. The premium can be paid up front or added to your mortgage."
     },
     {
       "type": "tip",
@@ -49,18 +49,39 @@
     },
     {
       "type": "cta",
-      "title": "Thinking about your first place?",
-      "body": "A mortgage professional can run your exact numbers. I'm happy to help with everything else.",
+      "title": "Want to know your numbers?",
+      "body": "I can set you up with an appointment with a qualified mortgage professional. Just send me a message.",
       "handle": "@homeswithdylan",
       "brokerage": "eXp Realty"
     }
   ],
-  "caption": "First-time home buyer in BC? You don't need 20% down to buy a home in Canada — one of the most common myths I hear.\n\nThe federal minimums:\n🏠 $500,000 or less: 5% of the price\n🏠 $500,000 to $1.5M: 5% of the first $500K + 10% of the rest\n🏠 $1.5M and up: 20%\n\nExample: on a $600,000 home, the minimum is $35,000 (about 5.8%), not $120,000.\n\nThe catch: under 20% down you'll typically pay for mortgage loan insurance, usually added to your mortgage. And first-time buyers can now get up to a 30-year amortization on an insured mortgage — lower payments, more interest over time.\n\nEveryone's situation is different, so talk to a mortgage professional for your own numbers before you start shopping.\n\n📌 Save this, and send it to a friend who thinks they're years away from buying.\n\nDylan | eXp Realty\n\n#VictoriaBC #YYJ #VictoriaRealEstate #FirstTimeHomeBuyer #DownPayment",
+  "caption": "First-time home buyer in BC? You don't need 20% down to buy a home in Canada.\n\nThe federal minimums:\n🏠 $500,000 or less: 5% of the price\n🏠 $500,000 to $1.5M: 5% of the first $500K + 10% of the rest\n🏠 $1.5M and up: 20%\n\nExample: on a $600,000 home, the minimum is $35,000 (about 5.8%), not $120,000.\n\nThe catch: under 20% down you'll typically need mortgage loan insurance. The premium can be paid up front or added to your mortgage. And first-time buyers can now get up to a 30-year amortization on an insured mortgage — lower payments, more interest over time.\n\nEveryone's situation is different. Want to know your own numbers? I can set you up with an appointment with a qualified mortgage professional. Just send me a DM.\n\n📌 Save this, and send it to a friend who thinks they're years away from buying.\n\nDylan Jones | eXp Realty\n\n#VictoriaBC #YYJ #VictoriaRealEstate #FirstTimeHomeBuyer #DownPayment",
   "alt_text": "Myth vs fact for first-time home buyers in BC and Canada: minimum down payment is 5% up to $500,000, tiered 5% and 10% up to $1.5 million, and 20% at $1.5 million or more.",
   "sources": [
-    {"claim": "Minimum down payment: 5% up to $500K; 5% of first $500K + 10% above, up to $1.5M; 20% at $1.5M+; $600K example = $35,000", "url": "https://www.canada.ca/en/financial-consumer-agency/services/mortgages/down-payment.html", "checked": "2026-11-18"},
-    {"claim": "Under 20% down typically requires mortgage loan insurance", "url": "https://www.canada.ca/en/financial-consumer-agency/services/mortgages/down-payment.html", "checked": "2026-11-18"},
-    {"claim": "Insurance required under 20% down for homes $1.5M or less; not available over $1.5M", "url": "https://www.cmhc-schl.gc.ca/en/observer/2025/cmhc-mortgage-loan-insurance-explained", "checked": "2026-11-18"},
-    {"claim": "30-year insured amortizations for all first-time buyers and new builds effective Dec 15, 2024", "url": "https://www.canada.ca/en/department-finance/news/2024/09/government-announces-boldest-mortgage-reforms-in-decades-to-unlock-homeownership-for-more-canadians.html", "checked": "2026-11-18"}
+    {
+      "claim": "Minimum down payment: 5% up to $500K; 5% of first $500K + 10% above, up to $1.5M; 20% at $1.5M+; $600K example = $35,000",
+      "url": "https://www.canada.ca/en/financial-consumer-agency/services/mortgages/down-payment.html",
+      "checked": "2026-11-18"
+    },
+    {
+      "claim": "Under 20% down typically requires mortgage loan insurance",
+      "url": "https://www.canada.ca/en/financial-consumer-agency/services/mortgages/down-payment.html",
+      "checked": "2026-11-18"
+    },
+    {
+      "claim": "Insurance required under 20% down for homes $1.5M or less; not available over $1.5M",
+      "url": "https://www.cmhc-schl.gc.ca/en/observer/2025/cmhc-mortgage-loan-insurance-explained",
+      "checked": "2026-11-18"
+    },
+    {
+      "claim": "30-year insured amortizations for all first-time buyers and new builds effective Dec 15, 2024",
+      "url": "https://www.canada.ca/en/department-finance/news/2024/09/government-announces-boldest-mortgage-reforms-in-decades-to-unlock-homeownership-for-more-canadians.html",
+      "checked": "2026-11-18"
+    },
+    {
+      "claim": "Premium can be paid in a lump sum or added to the mortgage",
+      "url": "https://cmhc-schl.gc.ca/en/consumers/home-buying/mortgage-loan-insurance-for-consumers/what-is-mortgage-loan-insurance",
+      "checked": "2026-11-18"
+    }
   ]
 }
