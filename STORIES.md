@@ -1,6 +1,10 @@
-# Scheduling Instagram stories in Meta Business Suite (proven Nov 20 2026)
+# Sharing Instagram stories via Meta Business Suite
 
-Works on the Creator account @homeswithdylan, in the Claude desktop app's built-in browser pane.
+IMPORTANT (learned Nov 21 2026): on the Creator account @homeswithdylan, SCHEDULED stories are accepted by
+Business Suite but FAIL to publish at the scheduled time ("Story failed to publish"). "Share now" works.
+So stories are shared at their time by the "Share open house story" scheduled tasks, using steps 1-4 below
+and then the blue "Share" button (leave the Schedule section on "Share now"). Do not schedule stories.
+Runs in the Claude desktop app's built-in browser pane on Dylan's Mac.
 
 ## Make the frames
 python3 story.py --slides <folder with slide-01.jpg (cover) … slide-NN.jpg> --out <out folder> \
@@ -10,7 +14,12 @@ python3 story.py --slides <folder with slide-01.jpg (cover) … slide-NN.jpg> --
 - Max 10 frames per story (cover + 9 listings). LOOK at the frames before uploading.
 - Put them in posts/<Thu YYYY-MM-DD>-openhouse-story-thu/ and -story-sat/, commit + push, wait ~90 s for Pages (relay 404 = not deployed yet; wait 60 s and retry).
 
-## Schedule one story (all frames in one go)
+## Share one story (all frames in one go)
+Steps 1-4, then click the blue "Share" button at the bottom ONCE, wait ~20 s, then check
+https://business.facebook.com/latest/posts/active_stories?business_id=689683847537534&asset_id=1000087319863101
+(re-check after ~60 s; frames can take a minute) — one "Photo · 5 seconds" row per frame with today's time.
+
+## (Old) scheduling steps — do not use on the Creator account
 1. Navigate (force:true) to https://business.facebook.com/latest/story_composer?asset_id=1000087319863101&business_id=689683847537534 , wait ~3 s.
 2. javascript_exec — hook the file picker (same code as PUBLISHING.md step 2).
 3. find "Add photo/video", left_click it by ref (real click).
