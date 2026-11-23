@@ -1,0 +1,105 @@
+{
+  "id": "2026-11-27-property-transfer-tax-explainer",
+  "pillar": "bc-explainer",
+  "slot": "Fri",
+  "theme": "sand",
+  "post_at": "2026-11-27 12:00",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "BC buyer explainer",
+      "title": "Property transfer tax",
+      "subtitle": "The closing cost nobody puts on their vision board",
+      "footer": "Save this for later"
+    },
+    {
+      "type": "tip",
+      "kicker": "What it is",
+      "title": "A one-time tax when you buy",
+      "body": "BC charges property transfer tax when you buy a property registered at the Land Title Office. Separate from yearly property taxes. Yes, there are two."
+    },
+    {
+      "type": "tip",
+      "kicker": "The rates",
+      "title": "1% · 2% · 3%",
+      "body": "1% on the first $200,000, 2% from $200,000 to $2 million, and 3% above $2 million. A further 2% applies to residential value over $3 million."
+    },
+    {
+      "type": "tip",
+      "kicker": "Example",
+      "title": "A $700,000 home",
+      "body": "1% of $200,000 = $2,000. 2% of the next $500,000 = $10,000. Total: $12,000. Better to meet that number here than at the lawyer's office."
+    },
+    {
+      "type": "tip",
+      "kicker": "First-timers, this one's for you",
+      "title": "Up to $8,000 off",
+      "body": "Eligible first-time buyers pay none on homes worth $500,000 or less, and get $8,000 off up to $835,000. It phases out by $860,000."
+    },
+    {
+      "type": "tip",
+      "kicker": "Same $700K home",
+      "title": "$12,000 becomes $4,000",
+      "body": "For an eligible first-time buyer, the $8,000 exemption brings the tax on a $700,000 home down to $4,000. That's a lot of patio furniture."
+    },
+    {
+      "type": "tip",
+      "kicker": "Who qualifies",
+      "title": "The fine print",
+      "body": "Canadian citizen or permanent resident, lived in BC for a year (or filed 2 BC tax returns in the last 6 years), and never owned a principal residence anywhere."
+    },
+    {
+      "type": "tip",
+      "kicker": "After you buy",
+      "title": "Move in and stay",
+      "body": "Move in within 92 days, and live there as your principal residence until the first anniversary of registration. It's a commitment."
+    },
+    {
+      "type": "tip",
+      "kicker": "Buying new?",
+      "title": "Brand new home?",
+      "body": "The newly built home exemption covers new homes up to $1.1 million, with a partial exemption up to $1.15 million. Its rules differ."
+    },
+    {
+      "type": "cta",
+      "title": "Planning your first purchase?",
+      "body": "I can set you up with an appointment with a qualified mortgage professional to map out the full cost.",
+      "handle": "@homeswithdylan",
+      "brokerage": "eXp Realty"
+    }
+  ],
+  "caption": "Property transfer tax in BC, explained for first-time home buyers 🧾 (aka the closing cost nobody brags about on Instagram)\n\nWhen you buy a home in BC, you pay a one-time property transfer tax (separate from your yearly property taxes):\n• 1% on the first $200,000\n• 2% from $200,000 to $2 million\n• 3% above $2 million (plus a further 2% on residential value over $3 million)\n\nOn a $700,000 home, that's $12,000.\n\nFirst-time buyer? If you qualify, you pay no property transfer tax on a home worth $500,000 or less, and get an $8,000 exemption up to $835,000. It phases out between $835,000 and $860,000. On that $700,000 home, $12,000 becomes $4,000. That's a lot of patio furniture 🪑\n\nThe main rules: Canadian citizen or permanent resident, lived in BC for at least a year before registration (or filed 2 BC tax returns in the last 6 years), never owned a principal residence anywhere in the world, and never received this exemption before. You need to move in within 92 days and live there until the first anniversary of registration.\n\nBuying a newly built home? There's a separate exemption with higher limits.\n\nYour lawyer or notary applies the exemption when your purchase is registered, so ask them to confirm your situation. Want to plan the full cost of buying? I can set you up with an appointment with a qualified mortgage professional. Just send me a DM.\n\n📌 Save this, and send it to the friend who keeps saying \"next year\" about buying.\n\nDylan Jones | eXp Realty\n\n#VictoriaBC #YYJ #VictoriaRealEstate #FirstTimeHomeBuyer #PropertyTransferTax",
+  "alt_text": "BC property transfer tax explained for first-time home buyers in Victoria: rates of 1%, 2% and 3%, a $700,000 example, the first-time home buyers' exemption and the newly built home exemption.",
+  "sources": [
+    {
+      "claim": "PTT rates: 1% to $200K, 2% $200K–$2M, 3% over $2M, further 2% on residential value over $3M; applies when you purchase/gain an interest in property registered at the LTO",
+      "url": "https://www2.gov.bc.ca/gov/content/taxes/property-taxes/property-transfer-tax",
+      "checked": "2026-11-22"
+    },
+    {
+      "claim": "$700,000 example: $2,000 + $10,000 = $12,000 (arithmetic from official rates; matches the gov.bc.ca worked examples method)",
+      "url": "https://www2.gov.bc.ca/gov/content/taxes/property-taxes/property-transfer-tax/calculation-examples",
+      "checked": "2026-11-22"
+    },
+    {
+      "claim": "FTHB exemption (registered on/after Apr 1, 2024): full to $500K; $8,000 over $500K to $835K; proportionally reduced over $835K and under $860K",
+      "url": "https://www2.gov.bc.ca/gov/content/taxes/property-taxes/property-transfer-tax/exemptions/first-time-home-buyers/current-amount",
+      "checked": "2026-11-22"
+    },
+    {
+      "claim": "Eligibility: citizen/PR; lived in BC 1 year before registration or filed 2 BC returns in last 6 years; never owned a principal residence anywhere; never received the exemption; move in within 92 days; occupy until first anniversary; legal professional applies it",
+      "url": "https://www2.gov.bc.ca/gov/content/taxes/property-taxes/property-transfer-tax/exemptions/first-time-home-buyers",
+      "checked": "2026-11-22"
+    },
+    {
+      "claim": "Newly built home exemption: full to $1,100,000, partial under $1,150,000 (registered on/after Apr 1, 2024)",
+      "url": "https://www2.gov.bc.ca/gov/content/taxes/property-taxes/property-transfer-tax/exemptions/newly-built-home-exemption",
+      "checked": "2026-11-22"
+    },
+    {
+      "claim": "No announced changes to PTT rates or FTHB thresholds since (gov.bc.ca property tax updates list only purpose-built rental and admin changes in 2025–26)",
+      "url": "https://www2.gov.bc.ca/gov/content/taxes/tax-changes/whats-new/property-taxes",
+      "checked": "2026-11-22"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "2026-11-23-rainy-season-showings",
+  "pillar": "buyer-tip",
+  "slot": "Mon",
+  "theme": "forest",
+  "post_at": "2026-11-23 18:00",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Victoria home buyers",
+      "title": "Rain doesn't lie.",
+      "subtitle": "Sunny showings flatter a house. Wet ones tell the truth.",
+      "footer": "Save this for your next showing"
+    },
+    {
+      "type": "tip",
+      "num": 1,
+      "title": "Walk the outside first",
+      "body": "Watch the gutters and downspouts mid-downpour. Is water overflowing, or heading toward the house? It should be leaving, not moving in."
+    },
+    {
+      "type": "tip",
+      "num": 2,
+      "title": "Check how the yard drains",
+      "body": "The ground should slope away from the house. A moat is charming around a castle. Less so around a foundation."
+    },
+    {
+      "type": "tip",
+      "num": 3,
+      "title": "Trust your nose",
+      "body": "A musty, earthy smell, especially in a basement or crawlspace, can be a sign of moisture or hidden mould. \"Rustic\" is not a scent."
+    },
+    {
+      "type": "tip",
+      "num": 4,
+      "title": "Look for stains",
+      "body": "Check ceilings, around windows and skylights, and basement walls and floors. Peeling paint and warped wood are the house trying to tell you something."
+    },
+    {
+      "type": "tip",
+      "num": 5,
+      "title": "Notice the windows",
+      "body": "Heavy condensation can mean the home holds too much moisture. Ask how the bathrooms and kitchen are vented. Foggy windows are not a vibe."
+    },
+    {
+      "type": "tip",
+      "num": 6,
+      "title": "Ask about heating",
+      "body": "What's the heat source, and what does it typically cost through the winter? Better to ask now than find out in February."
+    },
+    {
+      "type": "tip",
+      "num": 7,
+      "title": "Book a licensed inspector",
+      "body": "Home inspectors in BC must be licensed by Consumer Protection BC. Your cousin who \"knows houses\" doesn't count."
+    },
+    {
+      "type": "cta",
+      "title": "Buying this winter?",
+      "body": "I'll bring the umbrella and the awkward questions.",
+      "handle": "@homeswithdylan",
+      "brokerage": "eXp Realty"
+    }
+  ],
+  "caption": "Buying a home in Victoria this winter? Rain is the most honest home inspector you'll ever meet 🌧️ (It works for free. It just doesn't write a report.)\n\nWhat to look for at a wet-season showing:\n\n1️⃣ Gutters & downspouts: is water overflowing or running toward the house?\n2️⃣ Drainage: the ground should slope away from the foundation\n3️⃣ A musty, earthy smell (especially in basements and crawlspaces)\n4️⃣ Stains, peeling paint or warped wood\n5️⃣ Heavy window condensation and how the home is vented\n6️⃣ The heat source and typical winter heating costs\n7️⃣ A licensed home inspector (BC requires home inspectors to be licensed by Consumer Protection BC)\n\nNone of these automatically rules a home out. They're just good questions to ask before you write an offer.\n\n📌 Save this for your next showing, and send it to the friend who only books showings on sunny days ☀️\n\nDylan Jones | eXp Realty\n\n#VictoriaBC #YYJ #VictoriaRealEstate #HomeBuyingTips #FirstTimeHomeBuyer",
+  "alt_text": "Tips for buying a home in Victoria BC in the rainy season: check gutters, drainage, musty smells, stains, window condensation, heating costs, and hire a licensed home inspector.",
+  "sources": [
+    {
+      "claim": "Signs of moisture/mould: musty or earthy odours; stains; condensation on windows; peeling paint, warped wood",
+      "url": "https://www.canada.ca/en/health-canada/services/publications/healthy-living/addressing-moisture-mould-your-home.html",
+      "checked": "2026-11-22"
+    },
+    {
+      "claim": "Ground should slope away from the home; eavestroughs/downspouts should carry water away from the building",
+      "url": "https://www.canada.ca/en/health-canada/services/publications/healthy-living/addressing-moisture-mould-your-home.html",
+      "checked": "2026-11-22"
+    },
+    {
+      "claim": "BC requires mandatory licensing of home inspectors; Consumer Protection BC licenses them",
+      "url": "https://www2.gov.bc.ca/gov/content/housing-tenancy/real-estate-bc/buying-selling/home-inspectors",
+      "checked": "2026-11-22"
+    }
+  ]
+}

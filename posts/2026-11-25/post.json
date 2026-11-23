@@ -1,0 +1,100 @@
+{
+  "id": "2026-11-25-fernwood-spotlight",
+  "pillar": "neighbourhood-spotlight",
+  "slot": "Wed",
+  "theme": "ocean",
+  "post_at": "2026-11-25 18:00",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "Neighbourhood spotlight",
+      "title": "Fernwood",
+      "subtitle": "Heritage homes, a village square, and a church that took up theatre",
+      "footer": "Save this for later"
+    },
+    {
+      "type": "tip",
+      "kicker": "The name",
+      "title": "Fernwood Manor",
+      "body": "In 1860, surveyor Benjamin Pearse built a stone villa here and called it Fernwood Manor. The house came down in 1969. The name refused to leave."
+    },
+    {
+      "type": "tip",
+      "kicker": "Before that",
+      "title": "Spring Ridge",
+      "body": "Freshwater springs along a gravel ridge here were an important source of Victoria's drinking water until the mid-1870s. Hydrating Victoria before it was cool."
+    },
+    {
+      "type": "tip",
+      "kicker": "The heart",
+      "title": "Fernwood Square",
+      "body": "At Gladstone and Fernwood. The end of the Spring Ridge streetcar line from 1891 to 1948, and a public square since the 1970s. People still end up here."
+    },
+    {
+      "type": "tip",
+      "kicker": "The landmark",
+      "title": "From pews to plays",
+      "body": "The Belfry Theatre has been in this former Baptist church since 1976. Main building: 1892. Still the most dramatic building in the neighbourhood."
+    },
+    {
+      "type": "tip",
+      "kicker": "The homes",
+      "title": "Old streets, old houses",
+      "body": "Many of Fernwood's streets and houses date from 1890 to 1912, and the village is a heritage conservation area. The 1890s ones have now seen three centuries."
+    },
+    {
+      "type": "tip",
+      "kicker": "Also here",
+      "title": "Vic High & green space",
+      "body": "Victoria High School's building went up in 1911–14. Alexander Park and Stadacona Park are nearby, for when you need a break from all the charm."
+    },
+    {
+      "type": "cta",
+      "title": "Curious about Fernwood?",
+      "body": "Ask me anything about the neighbourhood. I promise to keep the history lecture short. (Ish.)",
+      "handle": "@homeswithdylan",
+      "brokerage": "eXp Realty"
+    }
+  ],
+  "caption": "Fernwood, Victoria neighbourhood spotlight 🏡 Close to downtown, full of heritage homes, and home to a church that quit its day job to do theatre 🎭\n\nA few things to know:\n\n🏠 The name comes from Fernwood Manor, the stone villa surveyor Benjamin Pearse built here in 1860 (demolished in 1969)\n💧 Before that, the area was Spring Ridge. Its springs were an important source of Victoria's drinking water until the mid-1870s\n🚋 Fernwood Square, at Gladstone and Fernwood, was the end of the Spring Ridge streetcar line from 1891 to 1948\n🎭 The Belfry Theatre has been in the former Emmanuel Baptist Church (main building 1892) since 1976\n🏘️ Many streets and houses date from 1890 to 1912, and the village is a heritage conservation area\n🏫 Victoria High School's building went up in 1911–14\n\nLive in Fernwood? Tell me your favourite spot in the comments 👇 (Gatekeeping is allowed. I'll respect it. Mostly.)\n\nDylan Jones | eXp Realty\n\n#VictoriaBC #YYJ #VictoriaRealEstate #Fernwood #VictoriaNeighbourhoods",
+  "alt_text": "Fernwood neighbourhood spotlight, Victoria BC: history of the name, Spring Ridge, Fernwood Square, the Belfry Theatre, heritage homes and Victoria High School.",
+  "sources": [
+    {
+      "claim": "Benjamin Pearse built Fernwood Manor in 1860; demolished 1969; source of the neighbourhood name",
+      "url": "https://victoriaheritagefoundation.ca/wp-content/uploads/2024/04/FernwoodWTB-Aug2022.pdf",
+      "checked": "2026-11-22",
+      "note": "Victoria Heritage Foundation walking tour (Aug 2022)"
+    },
+    {
+      "claim": "Spring Ridge springs were an important drinking water source until the mid-1870s",
+      "url": "https://victoriaheritagefoundation.ca/wp-content/uploads/2024/04/FernwoodWTB-Aug2022.pdf",
+      "checked": "2026-11-22"
+    },
+    {
+      "claim": "Fernwood Square was the Spring Ridge streetcar terminus 1891–1948; square created in the 1970s",
+      "url": "https://victoriaheritagefoundation.ca/wp-content/uploads/2024/04/FernwoodWTB-Aug2022.pdf",
+      "checked": "2026-11-22"
+    },
+    {
+      "claim": "Belfry: former Emmanuel Baptist Church, main building 1892–93; Belfry Theatre there since 1976; in the Fernwood Village Heritage Conservation Area",
+      "url": "https://victoriaheritagefoundation.ca/?p=2053",
+      "checked": "2026-11-22"
+    },
+    {
+      "claim": "Many Fernwood streets and houses date from 1890–1912",
+      "url": "https://victoriaheritagefoundation.ca/wp-content/uploads/2024/04/FernwoodWTB-Aug2022.pdf",
+      "checked": "2026-11-22"
+    },
+    {
+      "claim": "Victoria High School building constructed 1911–14",
+      "url": "https://victoriaheritagefoundation.ca/wp-content/uploads/2024/04/FernwoodWTB-Aug2022.pdf",
+      "checked": "2026-11-22"
+    },
+    {
+      "claim": "Vic High, Alexander Park and Stadacona Park are in Fernwood; heritage character; close to the Urban Core",
+      "url": "https://victoria.ca/media/file/ocp-fernwood-strategic-directionspdf",
+      "checked": "2026-11-22",
+      "note": "City of Victoria OCP, Fernwood strategic directions"
+    }
+  ]
+}
